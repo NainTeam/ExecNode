@@ -1,0 +1,2 @@
+C:\Users\eslem\Code\Nain\TJs\ExecCommands\ExecApi\ExecApi\obj\Debug\ExecApi.njsprojResolveAssemblyReference.cache
+C:\Users\eslem\Code\Nain\TJs\ExecCommands\ExecApi\ExecApi\bin\Microsoft.NodejsTools.WebRole.dll
